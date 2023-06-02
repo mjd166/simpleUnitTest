@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "X0QED5Is+ZPf14RxEFo3SryGPBm2dkk1zKZOwbpCnnSY9KvZDKKUg649nHH06ndDIRBASmJDlGVQh3EZWeyjhA==",
+  "success": true,
+  "projectFilePath": "E:\\MJD\\tech\\TicketBooking\\TicketBookingCore.business\\TicketBookingCore.business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wee App115\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
+    "C:\\Users\\Wee App115\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
+    "C:\\Users\\Wee App115\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.5\\microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
+    "C:\\Users\\Wee App115\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Wee App115\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\Wee App115\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Wee App115\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Wee App115\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Wee App115\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Wee App115\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Wee App115\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Wee App115\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

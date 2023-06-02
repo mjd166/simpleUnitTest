@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MJD\\tech\\TicketBooking\\TicketBookingCore.Tests\\TicketBookingCore.Tests.csproj": {}
+  },
+  "projects": {
+    "E:\\MJD\\tech\\TicketBooking\\TicketBookingCore.business\\TicketBookingCore.business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MJD\\tech\\TicketBooking\\TicketBookingCore.business\\TicketBookingCore.business.csproj",
+        "projectName": "TicketBookingCore.business",
+        "projectPath": "E:\\MJD\\tech\\TicketBooking\\TicketBookingCore.business\\TicketBookingCore.business.csproj",
+        "packagesPath": "C:\\Users\\Wee App115\\.nuget\\packages\\",
+        "outputPath": "E:\\MJD\\tech\\TicketBooking\\TicketBookingCore.business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wee App115\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MJD\\tech\\TicketBooking\\TicketBookingCore.Tests\\TicketBookingCore.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MJD\\tech\\TicketBooking\\TicketBookingCore.Tests\\TicketBookingCore.Tests.csproj",
+        "projectName": "TicketBookingCore.Tests",
+        "projectPath": "E:\\MJD\\tech\\TicketBooking\\TicketBookingCore.Tests\\TicketBookingCore.Tests.csproj",
+        "packagesPath": "C:\\Users\\Wee App115\\.nuget\\packages\\",
+        "outputPath": "E:\\MJD\\tech\\TicketBooking\\TicketBookingCore.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wee App115\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\MJD\\tech\\TicketBooking\\TicketBookingCore.business\\TicketBookingCore.business.csproj": {
+                "projectPath": "E:\\MJD\\tech\\TicketBooking\\TicketBookingCore.business\\TicketBookingCore.business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Faker": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.11.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

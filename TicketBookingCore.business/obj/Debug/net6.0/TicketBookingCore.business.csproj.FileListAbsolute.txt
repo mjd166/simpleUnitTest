@@ -1,0 +1,12 @@
+E:\MJD\tech\TicketBooking\TicketBookingCore.business\bin\Debug\net6.0\TicketBookingCore.business.deps.json
+E:\MJD\tech\TicketBooking\TicketBookingCore.business\bin\Debug\net6.0\TicketBookingCore.business.dll
+E:\MJD\tech\TicketBooking\TicketBookingCore.business\bin\Debug\net6.0\TicketBookingCore.business.pdb
+E:\MJD\tech\TicketBooking\TicketBookingCore.business\obj\Debug\net6.0\TicketBookingCore.business.csproj.AssemblyReference.cache
+E:\MJD\tech\TicketBooking\TicketBookingCore.business\obj\Debug\net6.0\TicketBookingCore.business.GeneratedMSBuildEditorConfig.editorconfig
+E:\MJD\tech\TicketBooking\TicketBookingCore.business\obj\Debug\net6.0\TicketBookingCore.business.AssemblyInfoInputs.cache
+E:\MJD\tech\TicketBooking\TicketBookingCore.business\obj\Debug\net6.0\TicketBookingCore.business.AssemblyInfo.cs
+E:\MJD\tech\TicketBooking\TicketBookingCore.business\obj\Debug\net6.0\TicketBookingCore.business.csproj.CoreCompileInputs.cache
+E:\MJD\tech\TicketBooking\TicketBookingCore.business\obj\Debug\net6.0\TicketBookingCore.business.dll
+E:\MJD\tech\TicketBooking\TicketBookingCore.business\obj\Debug\net6.0\refint\TicketBookingCore.business.dll
+E:\MJD\tech\TicketBooking\TicketBookingCore.business\obj\Debug\net6.0\TicketBookingCore.business.pdb
+E:\MJD\tech\TicketBooking\TicketBookingCore.business\obj\Debug\net6.0\ref\TicketBookingCore.business.dll
